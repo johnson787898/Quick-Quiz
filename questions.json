@@ -1,0 +1,85 @@
+[
+    {   
+        "question": "All pensioneer loan must be??",
+        "choice1": "Consumable",
+        "choice2": "Validated",
+        "choice3": "Consolidated",
+        "choice4": "endorse from HR",
+        "answer": 2
+      },
+      {
+        "question": "Customer is 60 years 11mnts, worked in KEBBI STATE PRIMARY SCHOOL STAFF PENSION BOARD (RETIREE) can he be granted for a fresh load",
+        "choice1": "No is too old",
+        "choice2": "Yes he/she can get loan",
+        "choice3": "He/She will not pay back",
+        "choice4": "Yes but he/she can get below #20,000",
+        "answer": 2
+      },
+      {
+        "question": "__ and __ are one off fees paid at the beginning of the loan for the 90 days period",
+        "choice1": "Availed Fee and Advisory Fee",
+        "choice2": "Management Fee and Advisory Fee",
+        "choice3": "Insurance Fee and Availed Fee",
+        "choice4": "Upfront Fee and Management Fee",
+        "answer": 2
+      },
+      {
+        "question": "What is the maximum Rate for CAT A",
+        "choice1": "29.95%",
+        "choice2": "34%",
+        "choice3": "31%",
+        "choice4": "31.95%",
+        "answer": 3
+      },
+      {
+        "question": "What is the minimum loan amount for Loan Top Up",
+        "choice1": "100,000",
+        "choice2": "50,000",
+        "choice3": "1000",
+        "choice4": "10,000",
+        "answer": 1
+      },
+      {
+        "question": "Which loan enables customer own and enjoy the benefits of brand new cars",
+        "choice1": "Salary Loan",
+        "choice2": "Auto Loan",
+        "choice3": "Cash Loan",
+        "choice4": "Fast Cash loan",
+        "answer": 2
+      },
+    {
+        "question": "A one month suspension of loan repayment is known as ?",
+        "choice1": "Loan Maturity",
+        "choice2": "Loan break",
+        "choice3": "Payment Holiday",
+        "choice4": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "CAT A below 100k without VCC the DBR is ?",
+        "choice1": "50%",
+        "choice2": "45%",
+        "choice3": "33.3%",
+        "choice4": "45% or 40%",
+        "answer": 2
+      },
+    {
+      "question": "Who is the head of Consumer underwriting?",
+      "choice1": "Mr.Gbenga Adeyemi",
+      "choice2": "Mrs.Mary Adelakun",
+      "choice3": "Mr.Agbafo Franklin",
+      "choice4": "Mr.Olayemi Ogunyankin",
+      "answer": 3
+    },
+    {
+        "question": "Who is Olayemi Johnson",
+        "choice1": "Developer",
+        "choice2": "Underwriter",
+        "choice3": "Engineer",
+        "choice4": "Pastor",
+        "answer": 1
+      }
+
+   
+  ]
+  
